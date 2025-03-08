@@ -34,7 +34,7 @@ import java.util.Scanner;
             grade = "B";
         } else if (averagePercentage >= 60) {
             grade = "C";
-        } else if (averagePercentage >= 50) {
+        } else if (averagePercentage >= 35) {
             grade = "D";
         } else {
             grade = "F (Fail)";
